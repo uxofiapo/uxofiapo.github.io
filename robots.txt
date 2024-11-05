@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://uxofiapo.github.io/Llv/sitemap_index.txt
+Sitemap: https://uxofiapo.github.io/hGm/sitemap_index.txt
+Sitemap: https://uxofiapo.github.io/jWp/sitemap_index.txt
+Sitemap: https://uxofiapo.github.io/xCu/sitemap_index.txt
